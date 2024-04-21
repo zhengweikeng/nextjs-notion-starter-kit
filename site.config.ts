@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Seed blog',
-  domain: 'blog.seedzz.top',
+  domain: 'seedzz.top',
   author: 'Seed Zheng',
 
   // open graph metadata (optional)
