@@ -17,8 +17,8 @@ export default siteConfig({
   description: '',
 
   // social usernames (optional)
-  twitter: '_seed__',
-  github: 'zhengweikeng',
+  // twitter: '_seed__',
+  // github: 'zhengweikeng',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
@@ -50,16 +50,16 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  navigationStyle: 'default'
-  // navigationStyle: 'custom',
-  // navigationLinks: [
-  //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
-  //   },
-  //   {
-  //     title: 'Contact',
-  //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
-  //   }
-  // ]
+  // navigationStyle: 'default'
+  navigationStyle: 'custom',
+  navigationLinks: [
+    {
+      title: 'About',
+      pageId: '7a3ff0b461944872ac7b35bb963cb024'
+    },
+    {
+      title: 'Contact',
+      pageId: 'e511859f4c3d48f9b590ae40b170eb28'
+    }
+  ]
 })
