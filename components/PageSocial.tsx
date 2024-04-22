@@ -20,12 +20,12 @@ const socialLinks: SocialLink[] = [
     title: `即刻 ${config.author}`,
     icon: (
       <svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path fill-rule="evenodd" clip-rule="evenodd" d="M558.995 36V668.494C558.995 860.992 284 860.992 284 860.992L338.999 1080.99C338.999 1080.99 806.491 1053.49 806.491 668.494V36H558.995Z" fill="white"/>
+        <path fillRule="evenodd" clipRule="evenodd" d="M558.995 36V668.494C558.995 860.992 284 860.992 284 860.992L338.999 1080.99C338.999 1080.99 806.491 1053.49 806.491 668.494V36H558.995Z" fill="white"/>
         <path d="M806.491 668.494C806.491 1053.49 338.999 1080.99 338.999 1080.99L421.498 1163.49C421.498 1163.49 564.294 1152.98 696.493 1080.99C751.492 1051.04 916.489 943.491 916.489 778.493V118.499L806.491 36V668.494Z" fill="#5EB8F9"/>
       </svg>
     )
   },
-  
+
   config.twitter && {
     name: 'twitter',
     href: `https://twitter.com/${config.twitter}`,

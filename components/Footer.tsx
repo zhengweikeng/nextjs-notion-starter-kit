@@ -62,7 +62,7 @@ export const FooterImpl: React.FC = () => {
               rel='noopener noreferrer'
             >
               <svg stroke="currentColor" fill="currentColor" width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-                <path fill-rule="evenodd" clip-rule="evenodd" d="M15.0954 5V17.0001C15.0954 20.6523 9.878 20.6523 9.878 20.6523L10.9215 24.8262C10.9215 24.8262 19.791 24.3045 19.791 17.0001V5H15.0954Z" fill="white"/>
+                <path fillRule="evenodd" clipRule="evenodd" d="M15.0954 5V17.0001C15.0954 20.6523 9.878 20.6523 9.878 20.6523L10.9215 24.8262C10.9215 24.8262 19.791 24.3045 19.791 17.0001V5H15.0954Z" fill="white"/>
                 <path d="M19.791 17.0001C19.791 24.3045 10.9215 24.8262 10.9215 24.8262L12.4867 26.3915C12.4867 26.3915 15.1959 26.192 17.7041 24.8262C18.7476 24.258 21.878 22.2175 21.878 19.0871V6.56523L19.791 5V17.0001Z" fill="#5EB8F9"/>
               </svg>
             </a>
