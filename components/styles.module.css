@@ -91,7 +91,7 @@
 }
 
 .twitter:hover {
-  color: #2795e9;
+  color: rgb(15, 15, 15);
 }
 
 .mastodon:hover {
@@ -116,6 +116,14 @@
 
 .newsletter:hover {
   color: #777777;
+}
+
+.instagram:hover {
+  color: #e17878;
+}
+
+.jike:hover {
+  color: #FED011;
 }
 
 .comments {

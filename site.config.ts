@@ -17,8 +17,10 @@ export default siteConfig({
   description: '',
 
   // social usernames (optional)
-  // twitter: '_seed__',
-  // github: 'zhengweikeng',
+  twitter: '_seed__',
+  github: 'zhengweikeng',
+  instagram: 'seed_zz',
+  jike: 'tqUuKN',
   // linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL

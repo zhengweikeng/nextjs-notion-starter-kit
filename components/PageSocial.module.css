@@ -79,11 +79,17 @@
   border-color: #3b5998;
 }
 
-.twitter .actionBgPane {
+/* .twitter .actionBgPane {
   background: #2795e9;
 }
 .twitter:hover {
   border-color: #2795e9;
+} */
+.twitter .actionBgPane {
+  background: black;
+}
+.twitter:hover {
+  border-color: black;
 }
 
 .linkedin .actionBgPane {
@@ -93,11 +99,17 @@
   border-color: #0077b5;
 }
 
-.github .actionBgPane {
+/* .github .actionBgPane {
   background: #c9510c;
 }
 .github:hover {
   border-color: #c9510c;
+} */
+.github .actionBgPane {
+  background: black;
+}
+.github:hover {
+  border-color: black;
 }
 
 .youtube .actionBgPane {
@@ -126,6 +138,20 @@
 }
 .email:hover {
   border-color: #777;
+}
+
+.instagram .actionBgPane {
+  background: #e17878;
+}
+.instagram:hover {
+  border-color: #e17878;
+}
+
+.jike .actionBgPane {
+  background: #FED011;
+}
+.jike:hover {
+  border-color: #FED011;
 }
 
 @media only screen and (max-width: 768px) {
